@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.Book-item {
+  margin: 10px 0 0 10px;
+  text-align: center;
+  display: inline-block;
+  border:  1px solid #333;
+}
